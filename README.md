@@ -1,13 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=170&section=header&text=Jigar%20Prajapati&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=AI%20automation%20%C2%B7%20Cloud%20%C2%B7%20E-commerce%20and%20API%20integrations&descSize=16&descAlignY=62" alt="Jigar Prajapati banner" width="100%"/>
+<img src="banner.jpg" alt="Jigar Prajapati: Intelligent Automation Solutions" width="100%"/>
 
-<a href="https://github.com/jigar48"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=700&lines=AI+agents+and+LLM+workflows+that+finish+the+task;Automation+and+RPA+that+replace+manual+work;Cloud+on+AWS%2C+containers+with+Docker+and+Podman;E-commerce+and+API+integrations+that+don%27t+fall+over" alt="Typing intro" /></a>
+# Jigar Prajapati
+
+<a href="https://github.com/jigar48"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4DA3FF&center=true&vCenter=true&width=700&lines=AI+agents+and+LLM+workflows+that+finish+the+task;Automation+and+RPA+that+replace+manual+work;Cloud+on+AWS%2C+containers+with+Docker+and+Podman;E-commerce+and+API+integrations+that+don%27t+fall+over" alt="Typing intro" /></a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/buildaiwith-jigar-prajapati)
 [![Upwork](https://img.shields.io/badge/Upwork-hire_me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/jigarprajapati4)
 ![Location](https://img.shields.io/badge/Ahmedabad-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Status](https://img.shields.io/badge/Freelance-open_to_projects-2ea043?style=for-the-badge)
+![Status](https://img.shields.io/badge/Freelance-open_to_projects-4da3ff?style=for-the-badge)
 
 </div>
 
@@ -112,8 +114,8 @@ Work across several platforms, including Adobe Commerce (formerly Magento) and W
 ![Adobe Commerce](https://img.shields.io/badge/Adobe_Commerce-FA0F00?style=flat-square&logo=adobe&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_%26_WebSocket_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=2ea043)
-![RPA](https://img.shields.io/badge/RPA-0d1117?style=flat-square&logo=probot&logoColor=2ea043)
+![REST APIs](https://img.shields.io/badge/REST_%26_WebSocket_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=4da3ff)
+![RPA](https://img.shields.io/badge/RPA-0d1117?style=flat-square&logo=probot&logoColor=4da3ff)
 
 ## 🔭 Open-source tools I've shipped
 
@@ -135,6 +137,6 @@ I take on freelance projects in AI automation, cloud and API integrations, and e
 
 <sub>Built by an automation engineer, so naturally this README is in a code block.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=90&section=footer" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1230,100:4da3ff&height=90&section=footer" alt="" width="100%"/>
 
 </div>
