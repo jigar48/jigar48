@@ -128,7 +128,6 @@ Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCo
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=jigar48&theme=dark&hide_border=true" alt="GitHub streak" height="150" />
-<img src="https://github-readme-stats.vercel.app/api?username=jigar48&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub stats" height="150" />
 </p>
 
 ## 🤝 Work with me
