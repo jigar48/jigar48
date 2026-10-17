@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" alt="Jigar Prajapati: Intelligent Automation Solutions" width="100%"/>
+<img src="1790136052252.jpg" alt="Jigar Prajapati: Intelligent Automation Solutions" width="100%"/>
 
 # Jigar Prajapati
 
