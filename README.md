@@ -75,7 +75,13 @@ Most of what I've built lives in private repositories, either for clients or as 
 
 ### 📈 Trading & market data
 *Personal research tools, not financial advice.*
-- **Pulse**: a SENSEX daily directional-bias engine that scores seven market signals into one composite bias, plus a VIX-gated averaging system that paper-trades ATM weekly options in the signalled direction, comparing three strategy variants side by side. It uses only free public data (no broker API), logs to SQLite, and has a FastAPI dashboard. Paper trading only.
+
+<p align="center">
+<img src="pulse-dashboard.png" alt="Illustrative mock-up of the Pulse dashboard" width="90%"/><br/>
+<sub>Illustrative mock-up of the Pulse dashboard, sample data only.</sub>
+</p>
+
+- **Pulse**: a SENSEX daily directional-bias engine that scores seven public market signals into one composite bias, with a VIX gate and a second confidence-based shadow gate shown side by side. A paper-trading engine runs six averaging and sizing variants against the same entry and logs every cycle to SQLite, with a FastAPI dashboard. No broker API, free public data, paper trading only.
 - **Theta Desk**: a SENSEX options-selling platform with live Greeks, a WebSocket feed, and Telegram alerts.
 - **Theta Vault**: an option-chain snapshot collector built on Angel One SmartAPI, with a FastAPI dashboard.
 - **NIFTY signal engine**: a signal generator that reads NSE option-chain data.
