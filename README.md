@@ -43,11 +43,11 @@ class Jigar:
 |---|---|
 | 🤖 **AI & agents** | LLM workflows, multi-model routing, agents that actually finish the task |
 | 🔁 **Automation / RPA** | Playwright bots, scrapers, schedulers, alerting pipelines |
-| ☁️ **Cloud & DevOps** | A wide range of AWS services, containers with Docker and Podman, Linux servers, CI/CD |
+| ☁️ **Cloud & DevOps** | AWS (Lambda, SES, EventBridge, Auto Scaling, IAM, VPC networking), containers with Docker and Podman, Linux servers, CI/CD |
 | 🔌 **APIs & backends** | FastAPI services, SQL, WebSocket feeds, third-party integrations that stay up |
 | 💊 **Healthcare integrations** | Pharmacy management system (PMS) connectors, CRM sync, workflow bots |
 | 📈 **Trading tooling** | Option-chain collectors, signal engines, dashboards, alerting |
-| 🛒 **E-commerce** | Custom features and integrations on Adobe Commerce, WooCommerce and other platforms |
+| 🛒 **E-commerce** | Custom features and integrations on Adobe Commerce, Shopify, WooCommerce and Odoo |
 
 ## 🗂️ Selected work
 
@@ -62,10 +62,9 @@ Most of what I've built lives in private repositories, either for clients or as 
 - **YouTube automation**: pipelines that handle uploads and channel tasks without manual steps.
 - **LinkedIn automation**: automated posting and outreach workflows for LinkedIn.
 - **Short Factory**: an automated pipeline for producing short-form video content at volume.
-<!-- - **Pulse**: add one line on what Pulse does -->
 
 ### ☁️ Cloud & infrastructure
-- **AWS**: designing and running workloads across a wide range of AWS services. <!-- list the main ones, e.g. EC2, S3, Lambda -->
+- **AWS**: serverless and scheduled workloads with Lambda and EventBridge, email delivery with SES, scaling with Auto Scaling, and secure networking with IAM, security groups and NAT.
 - **Containers**: Docker and Podman setups for repeatable local, staging and production environments.
 
 ### 💊 Healthcare & pharmacy platforms
@@ -75,6 +74,7 @@ Most of what I've built lives in private repositories, either for clients or as 
 
 ### 📈 Trading & market data
 *Personal research tools, not financial advice.*
+- **Pulse**: a SENSEX daily directional-bias engine that scores seven market signals into one composite bias, plus a VIX-gated averaging system that paper-trades ATM weekly options in the signalled direction, comparing three strategy variants side by side. It uses only free public data (no broker API), logs to SQLite, and has a FastAPI dashboard. Paper trading only.
 - **Theta Desk**: a SENSEX options-selling platform with live Greeks, a WebSocket feed, and Telegram alerts.
 - **Theta Vault**: an option-chain snapshot collector built on Angel One SmartAPI, with a FastAPI dashboard.
 - **NIFTY signal engine**: a signal generator that reads NSE option-chain data.
@@ -82,7 +82,7 @@ Most of what I've built lives in private repositories, either for clients or as 
 - **Swing trading algo**: a rules-based swing-trading system for systematic entries and exits.
 
 ### 🛒 E-commerce platforms
-Work across several platforms, including Adobe Commerce (formerly Magento) and WooCommerce. <!-- add other platforms you have worked with -->
+Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCommerce and Odoo.
 - **Mobile OTP login**: an Adobe Commerce module for phone-number sign-in over SMS (MSG91) for an Indian store.
 - **Consent and compliance**: DPDPA consent capture and store routing for a multi-store setup.
 - **Orders and invoicing**: order-grid and invoice-capture fixes for a photo-products store.
@@ -113,6 +113,8 @@ Work across several platforms, including Adobe Commerce (formerly Magento) and W
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Adobe Commerce](https://img.shields.io/badge/Adobe_Commerce-FA0F00?style=flat-square&logo=adobe&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_%26_WebSocket_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=4da3ff)
 ![RPA](https://img.shields.io/badge/RPA-0d1117?style=flat-square&logo=probot&logoColor=4da3ff)
