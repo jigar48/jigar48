@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=170&section=header&text=Jigar%20Prajapati&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=AI%20automation%20%C2%B7%20Cloud%20%C2%B7%20E-commerce%20%26%20API%20integrations&descSize=16&descAlignY=62" alt="Jigar Prajapati banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2ea043&height=170&section=header&text=Jigar%20Prajapati&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=AI%20automation%20%C2%B7%20Cloud%20%C2%B7%20E-commerce%20and%20API%20integrations&descSize=16&descAlignY=62" alt="Jigar Prajapati banner" width="100%"/>
 
 <a href="https://github.com/jigar48"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=700&lines=AI+agents+and+LLM+workflows+that+finish+the+task;Automation+and+RPA+that+replace+manual+work;Cloud+on+AWS%2C+containers+with+Docker+and+Podman;E-commerce+and+API+integrations+that+don%27t+fall+over" alt="Typing intro" /></a>
 
