@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/buildaiwith-jigar-prajapati)
 [![Upwork](https://img.shields.io/badge/Upwork-hire_me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/jigarprajapati4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-view_site-4da3ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://jigar48.github.io/automatewithjigar/)
 ![Location](https://img.shields.io/badge/Ahmedabad-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Freelance-open_to_projects-4da3ff?style=for-the-badge)
 
@@ -132,7 +133,7 @@ Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCo
 
 ## 🤝 Work with me
 
-I take on freelance projects in AI automation, cloud and API integrations, and e-commerce platforms. If you have a repetitive process eating your team's week, or systems that need to talk to each other, reach out on [Upwork](https://www.upwork.com/freelancers/jigarprajapati4) or [LinkedIn](https://linkedin.com/in/buildaiwith-jigar-prajapati).
+I take on freelance projects in AI automation, cloud and API integrations, and e-commerce platforms. If you have a repetitive process eating your team's week, or systems that need to talk to each other, see my [portfolio site](https://jigar48.github.io/automatewithjigar/), or reach out on [Upwork](https://www.upwork.com/freelancers/jigarprajapati4) or [LinkedIn](https://linkedin.com/in/buildaiwith-jigar-prajapati).
 
 <div align="center">
 
