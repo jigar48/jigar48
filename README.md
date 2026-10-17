@@ -58,20 +58,34 @@ Most of what I've built lives in private repositories, either for clients or as 
 - **Parenting advisor app (prototype)**: a multi-LLM routing backend that sends each question to the best-suited model, with a dashboard on top.
 - **LLM workflow automation**: agents and pipelines that connect models to business tools, built for client teams.
 
+<p align="center">
+<img src="ai-routing.png" alt="Multi-LLM routing diagram" width="90%"/><br/>
+<sub>Illustrative diagram, sample data only.</sub>
+</p>
+
 ### 📣 Content & social automation
-- **Instagram automation**: scheduling and publishing workflows for Instagram.
-- **YouTube automation**: pipelines that handle uploads and channel tasks without manual steps.
-- **LinkedIn automation**: automated posting and outreach workflows for LinkedIn.
-- **Short Factory**: an automated pipeline for producing short-form video content at volume.
+- **Instagram content engine**: generates captions, ranked hook options and branded images with an LLM (Groq, Llama 3.3 70B) and Pillow, then publishes single images, carousels and reels through the Instagram Graph API. Posts go through a review dashboard (FastAPI), and a cron-based autopilot publishes approved posts on schedule. Reach, saves and engagement are tracked per content pillar.
+- **Shorts Factory**: a faceless YouTube Shorts pipeline: idea, script, scene plan, AI visuals, voice, assembly with kinetic captions, thumbnail and upload. Each stage waits for human approval, and runs resume from the last good step. Runs on FastAPI with SQLite and zero-cost defaults.
+- **LinkedIn agent**: scrapes a profile, suggests improved content for review, applies approved changes with Playwright, plans a weekly posting strategy, generates branded visuals and auto-posts.
 
 ### ☁️ Cloud & infrastructure
 - **AWS**: serverless and scheduled workloads with Lambda and EventBridge, email delivery with SES, scaling with Auto Scaling, and secure networking with IAM, security groups and NAT.
 - **Containers**: Docker and Podman setups for repeatable local, staging and production environments.
 
+<p align="center">
+<img src="aws-architecture.png" alt="AWS reference architecture" width="90%"/><br/>
+<sub>Illustrative diagram, sample data only.</sub>
+</p>
+
 ### 💊 Healthcare & pharmacy platforms
 - **Pharmacy management system**: end-to-end platform work for a pharmacy business, integrating multiple pharmacy management systems (PMS) including Pioneer and Liberty.
 - **GoHighLevel (GHL) integrations**: syncing pharmacy and customer data with GHL for CRM and marketing automation.
 - **RPA bots**: automation that handles repetitive pharmacy-side workflows end to end.
+
+<p align="center">
+<img src="pharmacy-integration.png" alt="Pharmacy systems integration diagram" width="90%"/><br/>
+<sub>Illustrative diagram, sample data only.</sub>
+</p>
 
 ### 📈 Trading & market data
 *Personal research tools, not financial advice.*
@@ -94,6 +108,11 @@ Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCo
 - **Consent and compliance**: DPDPA consent capture and store routing for a multi-store setup.
 - **Orders and invoicing**: order-grid and invoice-capture fixes for a photo-products store.
 - **Containerised dev environments**: repeatable local setups so changes ship faster and safer.
+
+<p align="center">
+<img src="commerce-otp-flow.png" alt="Mobile OTP login flow" width="90%"/><br/>
+<sub>Illustrative diagram, sample data only.</sub>
+</p>
 
 ## 🧭 How I work
 
