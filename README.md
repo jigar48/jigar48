@@ -4,9 +4,8 @@
 
 **I automate things so businesses (and I) can stop doing them by hand.**
 
-AI agents · LLM workflows · RPA · Magento 2 · India 🇮🇳
+AI agents · LLM workflows · RPA · Magento 2 · Ahmedabad, India 🇮🇳
 
-[![Krisvik AI](https://img.shields.io/badge/Krisvik_AI-automation_%26_agents-0d1117?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/jigar48)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/buildaiwith-jigar-prajapati)
 [![Upwork](https://img.shields.io/badge/Upwork-hire_me-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/jigarprajapati4)
 
@@ -16,9 +15,8 @@ AI agents · LLM workflows · RPA · Magento 2 · India 🇮🇳
 
 ```python
 class Jigar:
-    brand      = "Krisvik"            # named after my two sons, Krishiv + Satvik
-    day_job    = "Magento 2 engineering for e-commerce teams"
-    night_job  = "AI agents, LLM pipelines, and SaaS side-products"
+    day_job    = "Magento 2 engineering and integrations for e-commerce and pharmacy teams"
+    night_job  = "AI agents, LLM pipelines, trading tools, and SaaS side-products"
     philosophy = "If I do it twice, I script it. If I do it three times, I ship it."
 
     def currently(self):
@@ -42,6 +40,31 @@ class Jigar:
 | 🛒 **Magento 2** | Custom modules, checkout and order flows, integrations, performance fixes |
 | 🔌 **APIs & backends** | FastAPI services, SQL, Dockerised deployments on AWS / Linux |
 
+## 🗂️ Selected work (private repos, walkthrough on request)
+
+Most of what I've built lives in private repositories, either for clients or as personal products. Here is what's inside.
+
+### 📣 Content & social automation
+- **Instagram automation**: scheduling and publishing workflows for Instagram.
+- **YouTube automation**: pipelines that handle uploads and channel tasks without manual steps.
+- **LinkedIn automation**: automated posting and outreach workflows for LinkedIn.
+- **Short Factory**: an automated pipeline for producing short-form video content at volume.
+<!-- - **Pulse**: add one line on what Pulse does -->
+
+### 📈 Trading & market data
+*Personal research tools, not financial advice.*
+- **Theta Desk**: a SENSEX options-selling platform with live Greeks, a WebSocket feed, and Telegram alerts.
+- **Theta Vault**: an option-chain snapshot collector built on Angel One SmartAPI, with a FastAPI dashboard.
+- **Swing trading algo**: a rules-based swing-trading system for systematic entries and exits.
+
+### 💊 Healthcare & pharmacy platforms
+- **Pharmacy management system**: end-to-end platform work for a pharmacy business, integrating multiple pharmacy management systems (PMS) including Pioneer and Liberty.
+- **GoHighLevel (GHL) integrations**: syncing pharmacy and customer data with GHL for CRM and marketing automation.
+- **RPA bots**: automation that handles repetitive pharmacy-side workflows end to end.
+
+### 🛒 E-commerce
+- **Magento 2 modules**: custom modules for checkout, order grids, invoicing, consent handling and mobile OTP login, across several live stores.
+
 ## 🧰 Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,12 +79,12 @@ class Jigar:
 
 ## 🔭 Open-source tools I've shipped
 
-- **[api-contract-diff](https://github.com/jigar48/api-contract-diff)** — catches removed endpoints, dropped response fields, and type changes between OpenAPI specs. CLI with readable reports and CI-friendly exit codes.
-- **[checkout-canary](https://github.com/jigar48/checkout-canary)** — <!-- add one line describing what it does -->
+- **[api-contract-diff](https://github.com/jigar48/api-contract-diff)**: catches removed endpoints, dropped response fields, and type changes between OpenAPI specs. CLI with readable reports and CI-friendly exit codes.
+- **[checkout-canary](https://github.com/jigar48/checkout-canary)**: a config-driven Playwright monitor that walks a store from home page to the payment step on a GitHub Actions schedule. It alerts via Telegram, Slack or email and publishes a green/red status page with failure screenshots on GitHub Pages. Free, no server needed, with Magento 2 and WooCommerce presets.
 
 ## 🤝 Work with me
 
-I take on freelance projects in AI automation and Magento 2. If you have a repetitive process eating your team's week, or a store that needs a custom feature, reach out on [Upwork](https://www.upwork.com/freelancers/jigarprajapati4) or [LinkedIn](https://linkedin.com/in/buildaiwith-jigar-prajapati).
+I take on freelance projects in AI automation, API integrations and Magento 2. If you have a repetitive process eating your team's week, or a store that needs a custom feature, reach out on [Upwork](https://www.upwork.com/freelancers/jigarprajapati4) or [LinkedIn](https://linkedin.com/in/buildaiwith-jigar-prajapati).
 
 <div align="center">
 
