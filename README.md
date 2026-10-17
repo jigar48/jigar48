@@ -68,6 +68,19 @@ Most of what I've built lives in private repositories, either for clients or as 
 - **Shorts Factory**: a faceless YouTube Shorts pipeline: idea, script, scene plan, AI visuals, voice, assembly with kinetic captions, thumbnail and upload. Each stage waits for human approval, and runs resume from the last good step. Runs on FastAPI with SQLite and zero-cost defaults.
 - **LinkedIn agent**: scrapes a profile, suggests improved content for review, applies approved changes with Playwright, plans a weekly posting strategy, generates branded visuals and auto-posts.
 
+<p align="center">
+<img src="instagram-engine.png" alt="Instagram content engine" width="90%"/>
+</p>
+
+<p align="center">
+<img src="shorts-factory.png" alt="Shorts Factory pipeline" width="90%"/>
+</p>
+
+<p align="center">
+<img src="linkedin-agent.png" alt="LinkedIn agent" width="90%"/>
+</p>
+<p align="center"><sub>Illustrative diagrams, sample data only.</sub></p>
+
 ### ☁️ Cloud & infrastructure
 - **AWS**: serverless and scheduled workloads with Lambda and EventBridge, email delivery with SES, scaling with Auto Scaling, and secure networking with IAM, security groups and NAT.
 - **Containers**: Docker and Podman setups for repeatable local, staging and production environments.
@@ -78,7 +91,7 @@ Most of what I've built lives in private repositories, either for clients or as 
 </p>
 
 ### 💊 Healthcare & pharmacy platforms
-- **Pharmacy management system**: end-to-end platform work for a pharmacy business, integrating multiple pharmacy management systems (PMS) including Pioneer and Liberty.
+- **Pharmacy management system**: end-to-end platform work for a pharmacy business with 400+ stores, integrating multiple pharmacy management systems (PMS) including Pioneer and Liberty.
 - **GoHighLevel (GHL) integrations**: syncing pharmacy and customer data with GHL for CRM and marketing automation.
 - **RPA bots**: automation that handles repetitive pharmacy-side workflows end to end.
 
@@ -103,11 +116,18 @@ Most of what I've built lives in private repositories, either for clients or as 
 - **Swing trading algo**: a rules-based swing-trading system for systematic entries and exits.
 
 ### 🛒 E-commerce platforms
-Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCommerce and Odoo.
-- **Mobile OTP login**: an Adobe Commerce module for phone-number sign-in over SMS (MSG91) for an Indian store.
-- **Consent and compliance**: DPDPA consent capture and store routing for a multi-store setup.
-- **Orders and invoicing**: order-grid and invoice-capture fixes for a photo-products store.
-- **Containerised dev environments**: repeatable local setups so changes ship faster and safer.
+Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCommerce and Odoo. The harder Adobe Commerce builds:
+- **Custom box studio**: a storefront experience where customers design their own custom box.
+- **WhatsApp sticker integration**: connecting a WhatsApp sticker flow to the store.
+- **Smart alert dashboard**: a dashboard that surfaces store alerts in one place.
+- **Smart shipping rates for boxes**: shipping rates calculated for custom box orders.
+- **Mobile OTP login**: phone-number sign-in over SMS (MSG91) for an Indian store.
+- **Pharmacy network**: managing 400+ pharmacy stores.
+- **Also**: DPDPA consent and multi-store routing, order and invoice fixes, containerised dev environments.
+
+<p align="center">
+<img src="commerce-builds.png" alt="Overview of complex e-commerce builds" width="90%"/>
+</p>
 
 <p align="center">
 <img src="commerce-otp-flow.png" alt="Mobile OTP login flow" width="90%"/><br/>
