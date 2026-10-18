@@ -169,6 +169,7 @@ Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCo
 
 - **[api-contract-diff](https://github.com/jigar48/api-contract-diff)**: catches removed endpoints, dropped response fields, and type changes between OpenAPI specs. CLI with readable reports and CI-friendly exit codes.
 - **[checkout-canary](https://github.com/jigar48/checkout-canary)**: a config-driven Playwright monitor that walks a store from home page to the payment step on a GitHub Actions schedule. It alerts via Telegram, Slack or email and publishes a green/red status page with failure screenshots on GitHub Pages. Free, no server needed, with Adobe Commerce and WooCommerce presets.
+- **[contact-cta-inspector](https://github.com/jigar48/contact-cta-inspector)**: a privacy-first Chrome extension (Manifest V3, TypeScript) that checks WhatsApp, phone and email links on a page for format problems, keeps general link observations separate, suggests fixes and copies a redacted report. Offline and deterministic: no network calls, accounts or analytics. MIT licensed.
 
 ## 📊 GitHub activity
 
