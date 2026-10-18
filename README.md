@@ -171,6 +171,10 @@ Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCo
 - **[checkout-canary](https://github.com/jigar48/checkout-canary)**: a config-driven Playwright monitor that walks a store from home page to the payment step on a GitHub Actions schedule. It alerts via Telegram, Slack or email and publishes a green/red status page with failure screenshots on GitHub Pages. Free, no server needed, with Adobe Commerce and WooCommerce presets.
 - **[contact-cta-inspector](https://github.com/jigar48/contact-cta-inspector)**: a privacy-first Chrome extension (Manifest V3, TypeScript) that checks WhatsApp, phone and email links on a page for format problems, keeps general link observations separate, suggests fixes and copies a redacted report. Offline and deterministic: no network calls, accounts or analytics. MIT licensed.
 
+If one of these tools saved you time, you can support the work:
+
+<a href="https://buymeacoffee.com/buildwithjigar"><img src="https://img.shields.io/badge/Buy_me_a_coffee-support_open_source-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/></a>
+
 ## 📊 GitHub activity
 
 <p align="center">
