@@ -168,9 +168,35 @@ Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCo
 ## 🔭 Open-source tools I've shipped
 
 - **[api-contract-diff](https://github.com/jigar48/api-contract-diff)**: catches removed endpoints, dropped response fields, and type changes between OpenAPI specs. CLI with readable reports and CI-friendly exit codes.
+
+<p align="center">
+<img src="oss-api-contract-diff.png" alt="Illustrative diagram of api-contract-diff" width="75%"/>
+</p>
+
 - **[checkout-canary](https://github.com/jigar48/checkout-canary)**: a config-driven Playwright monitor that walks a store from home page to the payment step on a GitHub Actions schedule. It alerts via Telegram, Slack or email and publishes a green/red status page with failure screenshots on GitHub Pages. Free, no server needed, with Adobe Commerce and WooCommerce presets.
+
+<p align="center">
+<img src="oss-checkout-canary.png" alt="Illustrative diagram of checkout-canary" width="75%"/>
+</p>
+
 - **[agent-gauntlet](https://github.com/jigar48/agent-gauntlet)**: a deterministic, no-LLM audit of a store's checkout journey. It runs the way an AI shopping agent does, with no human-like pauses, and reports where the journey breaks (early-action races, click-blocking overlays, login walls, bot challenges) with screenshots as evidence. It stops before payment and never places an order. Python and Playwright, early release (v0.1.0), MIT licensed.
+
+<p align="center">
+<img src="oss-agent-gauntlet.png" alt="Illustrative diagram of agent-gauntlet" width="75%"/>
+</p>
+
 - **[contact-cta-inspector](https://github.com/jigar48/contact-cta-inspector)**: a privacy-first Chrome extension (Manifest V3, TypeScript) that checks WhatsApp, phone and email links on a page for format problems, keeps general link observations separate, suggests fixes and copies a redacted report. Offline and deterministic: no network calls, accounts or analytics. MIT licensed.
+
+<p align="center">
+<img src="oss-contact-cta-inspector.png" alt="Illustrative diagram of contact-cta-inspector" width="75%"/>
+</p>
+
+- **[logpulse-ai](https://github.com/jigar48/logpulse-ai)**: a terminal log debugger and incident copilot. It reads piped logs, a file, or a wrapped command that failed, masks listed secret and PII patterns locally, then asks Gemini for a root cause and a ready-to-apply git diff, and can export a post-mortem in Markdown. Python, MIT licensed.
+
+<p align="center">
+<img src="oss-logpulse-ai.png" alt="Illustrative diagram of logpulse-ai" width="75%"/>
+</p>
+
 
 <a href="https://buymeacoffee.com/buildwithjigar"><img src="https://img.shields.io/badge/Buy_me_a_coffee-support_open_source-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee"/></a>
 
