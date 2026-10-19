@@ -191,6 +191,12 @@ Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCo
 <img src="oss-contact-cta-inspector.png" alt="Illustrative diagram of contact-cta-inspector" width="75%"/>
 </p>
 
+- **[awi (Agent Workflow Inspector)](https://github.com/jigar48/awi)**: an offline, deterministic linter for AI agent traces. It reads AWI JSON or OpenTelemetry exports and flags retry storms, repeated failing tool calls, execution cycles, runaway delegation and resource burn, with exit codes for CI gating. No accounts, LLM keys or network access. TypeScript, 1.0.0 release candidate, MIT licensed.
+
+<p align="center">
+<img src="oss-awi.png" alt="Illustrative diagram of Agent Workflow Inspector" width="75%"/>
+</p>
+
 - **[logpulse-ai](https://github.com/jigar48/logpulse-ai)**: a terminal log debugger and incident copilot. It reads piped logs, a file, or a wrapped command that failed, masks listed secret and PII patterns locally, then asks Gemini for a root cause and a ready-to-apply git diff, and can export a post-mortem in Markdown. Python, MIT licensed.
 
 <p align="center">
