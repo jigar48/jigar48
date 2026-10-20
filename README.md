@@ -197,6 +197,12 @@ Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCo
 <img src="oss-awi.png" alt="Illustrative diagram of Agent Workflow Inspector" width="75%"/>
 </p>
 
+- **[mcp-agent-mesh](https://github.com/jigar48/mcp-agentmesh)**: a single-file multi-agent pipeline for the terminal. An architect, a coder and a security auditor sub-agent work on a task using Gemini, with OWASP-based findings, a 0 to 100 score and an optional refine pass. Runs are saved locally in SQLite, and a mock mode runs without an API key. Python, MIT licensed.
+
+<p align="center">
+<img src="oss-mcp-agentmesh.png" alt="Illustrative diagram of mcp-agent-mesh" width="75%"/>
+</p>
+
 - **[logpulse-ai](https://github.com/jigar48/logpulse-ai)**: a terminal log debugger and incident copilot. It reads piped logs, a file, or a wrapped command that failed, masks listed secret and PII patterns locally, then asks Gemini for a root cause and a ready-to-apply git diff, and can export a post-mortem in Markdown. Python, MIT licensed.
 
 <p align="center">
