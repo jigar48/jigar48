@@ -191,6 +191,12 @@ Work across several platforms: Adobe Commerce (formerly Magento), Shopify, WooCo
 <img src="oss-contact-cta-inspector.png" alt="Illustrative diagram of contact-cta-inspector" width="75%"/>
 </p>
 
+- **[agent-risk-annotator](https://github.com/jigar48/agent-risk-annotator)**: local-first risk annotations for AI-agent-generated diffs. It prints one line per risky hunk (sensitive paths, deleted tests, fix-prone files, uncovered code, new dependencies, lockfile drift) so a reviewer knows where to look first. Rule-based, deterministic, no network calls. Ships as a TypeScript CLI, a Claude Code plugin and a GitHub Action. MIT licensed.
+
+<p align="center">
+<img src="oss-agent-risk-annotator.png" alt="Illustrative diagram of agent-risk-annotator" width="75%"/>
+</p>
+
 - **[awi (Agent Workflow Inspector)](https://github.com/jigar48/awi)**: an offline, deterministic linter for AI agent traces. It reads AWI JSON or OpenTelemetry exports and flags retry storms, repeated failing tool calls, execution cycles, runaway delegation and resource burn, with exit codes for CI gating. No accounts, LLM keys or network access. TypeScript, 1.0.0 release candidate, MIT licensed.
 
 <p align="center">
